@@ -73,6 +73,7 @@ events by jQuery : https://api.jquery.com/category/events <br />
 .removeClass() by jQuery : https://api.jquery.com/removeClass/ <br />
 .animate() by jQuery : https://api.jquery.com/animate/ <br />
 .text() by jQuery : https://api.jquery.com/text/ <br />
+.scroll() by jQuery : https://api.jquery.com/scroll/ <br />
 
 <a name="github"></a>
 ## 6. GitHub notes.
