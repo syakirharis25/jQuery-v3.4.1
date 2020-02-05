@@ -74,6 +74,7 @@ events by jQuery : https://api.jquery.com/category/events <br />
 .animate() by jQuery : https://api.jquery.com/animate/ <br />
 .text() by jQuery : https://api.jquery.com/text/ <br />
 .scroll() by jQuery : https://api.jquery.com/scroll/ <br />
+.scrollTop() by jQuery : https://api.jquery.com/scrollTop/ <br />
 
 <a name="github"></a>
 ## 6. GitHub notes.
