@@ -78,6 +78,7 @@ events by jQuery : https://api.jquery.com/category/events <br />
 jQuery.ajax() by jQuery :https://api.jquery.com/jquery.ajax/ <br />
 .data() by jQuery : https://api.jquery.com/data/ <br />
 .on() by jQuery : https://api.jquery.com/on/ <br />
+.val() by jQuery : https://api.jquery.com/val/#val <br />
 
 <a name="github"></a>
 ## 6. GitHub notes.
