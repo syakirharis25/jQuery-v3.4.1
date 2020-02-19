@@ -5,6 +5,7 @@ My works related to jQuery v3.4.1
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -81,10 +82,26 @@ jQuery.ajax() by jQuery :https://api.jquery.com/jquery.ajax/ <br />
 .val() by jQuery : https://api.jquery.com/val/#val <br />
 
 <a name="github"></a>
-## 6. GitHub notes.
+## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/jQuery-v3.4.1.git
 $ cd jQuery-v3.4.1/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 4. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+HTML                            12            197             24            764
+Markdown                         1              7              0             83
+JavaScript                       1              0              1              1
+-------------------------------------------------------------------------------
+SUM:                            14            204             25            848
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
